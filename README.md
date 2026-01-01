@@ -5,7 +5,7 @@ Landing page desenvolvida para demonstrar uma solução de **automação de aten
 ---
 
 ## 🔗 Demo
-👉 https://SEU_USUARIO.github.io/respondeai-landing/
+👉 https://gio-fernandes.github.io/respondeai-landing/
 
 ---
 
